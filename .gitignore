@@ -1,0 +1,6 @@
+vendor/
+cache/
+tests/cache/
+.idea
+atlassian-ide-plugin.xml
+log.txt

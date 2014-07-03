@@ -1,0 +1,21 @@
+{
+    "name": "xylesoft/aop-stats",
+    "description": "AOP Statistics of your application",
+    "require": {
+        "lisachenko/go-aop-php": "0.4.*"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "4.1.*"
+    },
+    "authors": [
+        {
+            "name": "Jeramy Wenserit",
+            "email": "jeramy@6min.de"
+        }
+    ],
+    "autoload": {
+        "psr-0": {
+            "Xylesoft\\AopStats": "src/"
+        }
+    }
+}
